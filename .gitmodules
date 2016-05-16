@@ -1,0 +1,3 @@
+[submodule "voxelquest"]
+	path = voxelquest
+	url = https://github.com/vxq/voxelquest
