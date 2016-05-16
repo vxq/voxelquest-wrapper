@@ -1,0 +1,13 @@
+{
+  "name": "voxelquest-wrapper",
+  "version": "0.0.0-dev.0",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {},
+  "files": [
+    "index.js",
+    "zdist/"
+  ],
+  "scripts": {}
+}
