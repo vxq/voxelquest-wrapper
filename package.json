@@ -1,13 +1,14 @@
 {
   "name": "voxelquest-wrapper",
-  "version": "0.0.0-dev.0",
+  "version": "0.0.0-dev.1",
   "license": "UNLICENSED",
   "private": true,
-  "dependencies": {},
-  "devDependencies": {},
+  "dependencies": {
+    "node-gyp": "^3.3.1"
+  },
   "files": [
     "index.js",
     "zdist/"
   ],
-  "scripts": {}
+  "gypfile": true
 }
