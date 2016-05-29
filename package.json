@@ -4,6 +4,7 @@
   "license": "UNLICENSED",
   "private": true,
   "dependencies": {
+    "nan": "^2.3.3",
     "node-gyp": "^3.3.1"
   },
   "files": [
